@@ -1,7 +1,0 @@
-C:\Users\CHI CONG\source\repos\Tyuiu.congIS.Sprint0\Tyuiu.SpirinIS.Sprint0.Task1.V0\bin\Debug\Tyuiu.SpirinIS.Sprint0.Task1.V0.exe.config
-C:\Users\CHI CONG\source\repos\Tyuiu.congIS.Sprint0\Tyuiu.SpirinIS.Sprint0.Task1.V0\bin\Debug\Tyuiu.SpirinIS.Sprint0.Task1.V0.exe
-C:\Users\CHI CONG\source\repos\Tyuiu.congIS.Sprint0\Tyuiu.SpirinIS.Sprint0.Task1.V0\bin\Debug\Tyuiu.SpirinIS.Sprint0.Task1.V0.pdb
-C:\Users\CHI CONG\source\repos\Tyuiu.congIS.Sprint0\Tyuiu.SpirinIS.Sprint0.Task1.V0\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task1.V0.csproj.AssemblyReference.cache
-C:\Users\CHI CONG\source\repos\Tyuiu.congIS.Sprint0\Tyuiu.SpirinIS.Sprint0.Task1.V0\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task1.V0.csproj.CoreCompileInputs.cache
-C:\Users\CHI CONG\source\repos\Tyuiu.congIS.Sprint0\Tyuiu.SpirinIS.Sprint0.Task1.V0\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task1.V0.exe
-C:\Users\CHI CONG\source\repos\Tyuiu.congIS.Sprint0\Tyuiu.SpirinIS.Sprint0.Task1.V0\obj\Debug\Tyuiu.SpirinIS.Sprint0.Task1.V0.pdb
